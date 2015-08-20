@@ -18,3 +18,5 @@
         // write the map to container div
         map.write("mapdiv");
     });
+
+var northAmerica = [#US, #CA, #MX];

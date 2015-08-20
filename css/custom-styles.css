@@ -25,12 +25,7 @@
 /* SVG Map
 ========================= */
 
-#north_america:hover, 
-#south_america:hover, 
-#africa:hover, 
-#asia:hover, 
-#australia:hover, 
-#europe:hover {
+$northAmerica:hover {
 	fill: #FFFDE7;
 }
 
